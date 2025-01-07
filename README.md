@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Chanuka Vithanage 👋
 
-<!--
-**chanukav/chanukav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT student at SLIIT, passionate about web development and digital marketing. Currently exploring new tech and improving my skills!
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: C, C++, Java
+- **Specializations**: Web Development, Digital Marketing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm learning
+- Continuously improving my web development skills.
+
+## 💻 Collaboration
+I’m open to collaborating on **web development projects**.
+
+## 🌍 Languages
+- **English** (Fluent)
+- **Sinhala** (Fluent)
