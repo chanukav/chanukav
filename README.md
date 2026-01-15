@@ -13,13 +13,13 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 
 <p align="center">
   <!-- Quick recruiter links (replace with your real links) -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="www.linkedin.com/in/chanuka-vithanage-b31046320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=E0E6ED&labelColor=007AFF" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_DOMAIN/" target="_blank">
+  <a href="[https://YOUR_PORTFOLIO_DOMAIN/"](https://www.chanukavithanage.com/) target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A1128?style=for-the-badge&logo=googlechrome&logoColor=E0E6ED&labelColor=007AFF" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="mailto:chanukavithanage129@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=E0E6ED&labelColor=007AFF" />
   </a>
   <a href="https://drive.google.com/YOUR_RESUME_LINK" target="_blank">
@@ -83,7 +83,7 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 ## 🌍 Visitor Country Map
 <!-- Option A (works for many users). If it fails, use Option B below. -->
 <p align="center">
-  <img src="https://github-visitor-map.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&bg=0A1128&color=E0E6ED&line=007AFF&point=007AFF" alt="Visitor Map" />
+  <img src="https://github-visitor-map.vercel.app/api?username=chanukav&theme=dark&bg=0A1128&color=E0E6ED&line=007AFF&point=007AFF" alt="Visitor Map" />
 </p>
 
 <!-- Option B (alternative map service – uncomment if you prefer/need it)
