@@ -29,7 +29,7 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 
 <p align="center">
   <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=007AFF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=chanukav&label=Profile%20views&color=007AFF&style=flat" />
 </p>
 
 ---
@@ -52,8 +52,8 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 ## 📌 Featured Projects (Showcase Cards)
 <!-- Replace repo=YOUR_GITHUB_USERNAME/REPO_NAME with your actual repos -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanukav&repo=Ro&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanukav&repo=Routinu&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_3&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
