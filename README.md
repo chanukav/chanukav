@@ -13,16 +13,17 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 
 <p align="center">
   <!-- Quick recruiter links (replace with your real links) -->
-  <a href="www.linkedin.com/in/chanuka-vithanage-b31046320" target="_blank">
+  <a href="www.linkedin.com/in/chanuka-vithanage-desh01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=E0E6ED&labelColor=007AFF" />
   </a>
-  <a href="[https://YOUR_PORTFOLIO_DOMAIN/"](https://www.chanukavithanage.com/) target="_blank">
+  <a href="[https://www.chanukavithanage.com](https://www.chanukavithanage.com/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A1128?style=for-the-badge&logo=googlechrome&logoColor=E0E6ED&labelColor=007AFF" />
   </a>
   <a href="mailto:chanukavithanage129@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=E0E6ED&labelColor=007AFF" />
   </a>
-  <a href="https://drive.google.com/YOUR_RESUME_LINK" target="_blank">
+  <a href="[https://drive.google.com/YOUR_RESUME_LINK](https://drive.google.com/uc?export=download&id=1NFiEm-luakpFvE8Rb1JGzMZ2PmHxq5TP
+)" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0A1128?style=for-the-badge&logo=googledrive&logoColor=E0E6ED&labelColor=007AFF" />
   </a>
 </p>
