@@ -11,19 +11,12 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chanuka-vithanage-desh01" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=E0E6ED&labelColor=007AFF" />
-  </a>
-  <a href="https://www.chanukavithanage.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A1128?style=for-the-badge&logo=googlechrome&logoColor=E0E6ED&labelColor=007AFF" />
-  </a>
-  <a href="mailto:chanukavithanage129@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=E0E6ED&labelColor=007AFF" />
-  </a>
-  <a href="https://drive.google.com/uc?export=download&id=1NFiEm-luakpFvE8Rb1JGzMZ2PmHxq5TP" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-0A1128?style=for-the-badge&logo=googledrive&logoColor=E0E6ED&labelColor=007AFF" />
-  </a>
+  <a href="https://www.linkedin.com/in/chanuka-vithanage-desh01" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=E0E6ED&labelColor=007AFF" /></a>
+  <a href="https://www.chanukavithanage.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0A1128?style=for-the-badge&logo=googlechrome&logoColor=E0E6ED&labelColor=007AFF" /></a>
+  <a href="mailto:chanukavithanage129@gmail.com"><img src="https://img.shields.io/badge/Email-0A1128?style=for-the-badge&logo=gmail&logoColor=E0E6ED&labelColor=007AFF" /></a>
+  <a href="https://drive.google.com/uc?export=download&id=1NFiEm-luakpFvE8Rb1JGzMZ2PmHxq5TP" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Resume-0A1128?style=for-the-badge&logo=googledrive&logoColor=E0E6ED&labelColor=007AFF" /></a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chanukav&label=Profile%20Views&color=007AFF&style=flat" />
