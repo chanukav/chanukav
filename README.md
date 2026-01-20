@@ -50,14 +50,14 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 ---
 
 ## 📌 Featured Projects (Showcase Cards)
-<!-- Replace repo=YOUR_GITHUB_USERNAME/REPO_NAME with your actual repos -->
+<!-- Replace repo=chanukav/REPO_NAME with your actual repos -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanukav&repo=Ro&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanukav&repo=Routinu&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_3&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_4&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanukav&repo=REPO_NAME_3&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chanukav&repo=REPO_NAME_4&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&border_color=1C2D5A" />
 </p>
 
 **Project highlights (recruiter-friendly):**
@@ -70,12 +70,12 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 
 ## 📊 GitHub Stats (Theme-Matched)
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&ring_color=007AFF&border_color=1C2D5A" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&border_color=1C2D5A" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chanukav&show_icons=true&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&icon_color=007AFF&ring_color=007AFF&border_color=1C2D5A" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanukav&layout=compact&bg_color=0A1128&title_color=E0E6ED&text_color=E0E6ED&border_color=1C2D5A" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=0A1128&ring=007AFF&fire=007AFF&currStreakLabel=E0E6ED&sideLabels=E0E6ED&dates=A4B3B6&stroke=1C2D5A&currStreakNum=E0E6ED&sideNums=E0E6ED" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanukav&background=0A1128&ring=007AFF&fire=007AFF&currStreakLabel=E0E6ED&sideLabels=E0E6ED&dates=A4B3B6&stroke=1C2D5A&currStreakNum=E0E6ED&sideNums=E0E6ED" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 
 <!-- Option B (alternative map service – uncomment if you prefer/need it)
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&left_color=0A1128&right_color=007AFF" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chanukav.chanukav&left_color=0A1128&right_color=007AFF" />
 </p>
 -->
 
