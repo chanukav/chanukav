@@ -81,16 +81,16 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 ---
 
 ## 🌍 Visitor Country Map
-<!-- Option A (works for many users). If it fails, use Option B below. -->
+<!-- Option A (works for many users). If it fails, use Option B below. 
 <p align="center">
   <img src="https://github-visitor-map.vercel.app/api?username=chanukav&theme=dark&bg=0A1128&color=E0E6ED&line=007AFF&point=007AFF" alt="Visitor Map" />
-</p>
+</p>-->
 
-<!-- Option B (alternative map service – uncomment if you prefer/need it)
+<!-- Option B (alternative map service – uncomment if you prefer/need it)-->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chanukav.chanukav&left_color=0A1128&right_color=007AFF" />
 </p>
--->
+
 
 ---
 
