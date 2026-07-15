@@ -24,7 +24,7 @@ BG #0A1128 | Cards #121B33 | Accent #007AFF | Highlight #1C2D5A | Text #E0E6ED
 
 ---
 
-## 🚀 Recruiter Snapshot (Dark Tech)
+## 🚀 Recruiter Snapshot
 - 🎓 **IT Undergraduate @ SLIIT**
 - 💻 Focus: **Web Development & Digital Marketing**
 - 🧠 Strengths: clean UI, problem-solving, consistency, teamwork
